@@ -1,5 +1,5 @@
 # GymSlug
-This a registered custom gym environment for reinforcement learning toward bio-inspired, explainable control of \textit{Aplysia californica} feeding via motor neuron control. Please refer to [pending] for details.
+This a registered custom gym environment for reinforcement learning toward bio-inspired, explainable control of Aplysia californica feeding via motor neuron control. Please refer to [pending] for details.
 # Installation
 1. unzip GymSlug.zip
 2. cd GymSlug
