@@ -7,7 +7,7 @@ This a registered custom gym environment for reinforcement learning toward bio-i
 # Installation
 1. unzip GymSlug.zip
 2. cd GymSlug
-3. pip install -e
+3. pip install -e .
 # Obtain expert performance under unbreakable seaweed scenario (as benchmark/goal for the reinforcement agent)
 ```
 from aplysia_feeding_ub import AplysiaFeedingUB
