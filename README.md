@@ -3,6 +3,8 @@ This a registered custom gym environment for reinforcement learning toward bio-i
 
 # usage.ipynb provides an example of a complete training routine using DQN
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CMU-BORG/GymSlug/blob/main/usage.ipynb)
+
 # Basic usage below:
 # Installation
 1. unzip GymSlug.zip
