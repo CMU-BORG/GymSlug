@@ -1,0 +1,2 @@
+from gym_slug.envs.slug_unbreakable import UnbreakableSeaweed
+from gym_slug.envs.slug_breakable import BreakableSeaweed
