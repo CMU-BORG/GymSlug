@@ -1,7 +1,7 @@
 # GymSlug
 This a registered custom gym environment for reinforcement learning toward bio-inspired, explainable control of Aplysia californica feeding via motor neuron control. Please refer to [pending] for details.
 
-# Use usage.ipynb for a complete training routine (DQN)
+# usage.ipynb provides am example of a complete training routine using DQN
 
 # Basic usage below:
 # Installation
