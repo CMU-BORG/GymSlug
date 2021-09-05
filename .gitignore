@@ -1,0 +1,7 @@
+best_model*
+monitor.csv
+test.mp4
+
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/

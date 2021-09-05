@@ -3,11 +3,13 @@ This a registered custom gym environment for reinforcement learning toward bio-i
 
 # usage.ipynb provides an example of a complete training routine using DQN
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CMU-BORG/GymSlug/blob/main/usage.ipynb)
+
 # Basic usage below:
 # Installation
 1. unzip GymSlug.zip
 2. cd GymSlug
-3. pip install -e
+3. pip install -e .
 # Obtain expert performance under unbreakable seaweed scenario (as benchmark/goal for the reinforcement agent)
 ```
 from aplysia_feeding_ub import AplysiaFeedingUB
